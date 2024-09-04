@@ -1,4 +1,4 @@
-module bitget
+module go-bitget
 
 go 1.17
 
