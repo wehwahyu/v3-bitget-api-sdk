@@ -1,4 +1,4 @@
-module github.com/wehwahyu/v3-bitget-api-sdk/bitget-golang-sdk-api
+module go-bitget
 
 go 1.17
 
